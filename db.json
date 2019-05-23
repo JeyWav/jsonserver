@@ -180,24 +180,24 @@
       "img": "https://via.placeholder.com/900x350"
     }
   ],
-  "brands": [
+  "Beat": [
     {
-      "brand": "nike"
+      "Beat": "Dark Beats"
     },
     {
-      "brand": "adidas"
+      "Beat": "Funny Beats"
     },
     {
-      "brand": "iceice"
+      "Beat": "Acoustic Beats"
     },
     {
-      "brand": "mike"
+      "Beat": "Sad Beats"
     },
     {
-      "brand": "daje"
+      "Beat": "Hard Beats"
     },
     {
-      "brand": "gang"
+      "Beat": "Free Beats"
     }
   ]
 }
