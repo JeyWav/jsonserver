@@ -6,7 +6,7 @@
       "desc": "Lorem ipsum..Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
       "beat": "Dark Beat",
       "price": "12$",
-      "img": ""
+      "img": "http://2013.globalgamejam.org/sites/default/files/styles/large/public/screenshots/2013/darkbito_0.png?itok=MpKJKcVP"
     },
     {
       "id": 2,
@@ -57,7 +57,7 @@
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "beat": "Dark Beat",
       "price": "12$",
-      "img": ""
+      "img": "http://2013.globalgamejam.org/sites/default/files/styles/large/public/screenshots/2013/darkbito_0.png?itok=MpKJKcVP"
     },
     {
       "id": 2,
@@ -103,7 +103,7 @@
   ],
   "herobanner": [
     {
-      "img": ""
+      "img": "http://2013.globalgamejam.org/sites/default/files/styles/large/public/screenshots/2013/darkbito_0.png?itok=MpKJKcVP"
     },
     {
       "img": "http://lorempixel.com/g/900/350/"
